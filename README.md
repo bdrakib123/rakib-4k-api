@@ -62,7 +62,7 @@ rakib-4k-api/
 
 ### Clone
 
-git clone https://github.com/YOUR_USERNAME/rakib-4k-api.git
+git clone https://github.com/bdrakib123/rakib-4k-api.git
 cd rakib-4k-api
 
 ### Create Virtual Environment
